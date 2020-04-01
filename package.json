@@ -1,7 +1,7 @@
 {
   "name": "serial-terminal",
   "version": "1.0.0",
-  "description": "Simple Serial Terminal",
+  "description": "Simple Serial Web Terminal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
